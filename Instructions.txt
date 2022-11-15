@@ -1,0 +1,1 @@
+To find the executable file go to app folder and find the exe called Financial Calculator and you can create a short cut to open and run program.
